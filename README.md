@@ -17,5 +17,17 @@ Four operations are needed for almost every data structure that manages a large 
 - traversal (list).
 
 
+Data Structure: 
 
+- Array
+- Ordered array
+- Stack
+- Queue
+- Linked list
+- Binary tree
+- Red-Black tree
+- 2-3-4 tree
+- Quad tree
+- Hash table
+- Graph
 
