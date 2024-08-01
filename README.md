@@ -1,4 +1,5 @@
 # Data-Structures
+![data-structures](./data-structures.png)
 What are data structures and algorithms?
 
 **Data organizations** are ways data is arranged in the computer using its various storage media (such as random-access memory, or RAM, and disk) and how that data is interpreted to represent something. 
